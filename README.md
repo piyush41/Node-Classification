@@ -10,3 +10,8 @@ Implemented 2 models here:
 1. With scalable approach for semi-supervised learning on graph-structured
 data that is based on an efficient variant of convolutional neural networks which
 operate directly on graphs. [GCN](https://arxiv.org/pdf/1609.02907.pdf)
+
+2. GAT(graph attention network) architectures
+that operate on graph-structured data, leveraging masked self-attentional layers to
+address the shortcomings of prior methods based on graph convolutions or their
+approximations.
